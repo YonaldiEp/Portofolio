@@ -98,20 +98,20 @@ section{
     position: relative;
 }
 
-.about{
+.home{
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.about .about-container{
+.home .home-container{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10rem;
 }
 
-.about img{
+.home img{
     width: 30vw;
     border-radius: 50%;
 }
@@ -185,14 +185,14 @@ section{
     margin-bottom: 3rem;
 }
 
-.experience-info{
+.about-info{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5rem;
 }
 
-.experience img{
+.about img{
     width: 24vw;
     border-radius: 3rem;
 }
