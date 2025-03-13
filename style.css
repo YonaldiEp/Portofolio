@@ -337,8 +337,6 @@ section{
     position: relative;     
 }
 
-
-
 .footer ul {
     display: flex;         
     justify-content: center; 
@@ -368,8 +366,6 @@ section{
     font-weight: 400; 
     text-align: center; 
 }
-
-
 
 @media(max-width:1280px){
     header{
@@ -426,58 +422,23 @@ section{
     }
 }
 
-@media(max-width:600px){
-    header #menu-icon{
-        display: block;
-    }
-    .nav-links{
-        position: absolute;
-        top: 100%;
-        margin-top: 1rem;
-        width: 100%;
-        padding: 1rem 0.5rem;
-        color: white;
-        display: flex;
+@media (max-width: 600px) {
+    .home-container {
         flex-direction: column;
-        text-align: center;
-        background: rgb(0,0,0,0.9);
-        border-radius: 3rem;
-        display: none;
-        left: 0;
-        transform: none;
-    }
-    .nav-links li{
-        margin-top: 1.5rem;
-        padding: 1rem;
-    }
-    .nav-links.active{
-        display: block;
-    }
-    header{
-        padding: 1rem 5rem;
-        gap: 8rem;
-    }
-    header .logo{
-        font-size: 1.5rem;
+        gap: 1rem; 
     }
 
-    .about-container img{
-        width: 80vw;
+    .home img {
+        width: 80%; 
+        max-width: 200px; 
     }
-    .input-box input{
-        padding: 0.5rem 3rem;
-        width: 80%;
-        font-size: 1.5rem;
+
+    .info-box h1 {
+        font-size: 2rem; 
     }
-    .input-box input::placeholder{
-        font-size: 1.5rem;
-    }
-    footer ul{
-        gap: 1rem;
-        flex-direction: column;
-    }
-    .footer{
-        padding: 2rem 0;
+
+    .info-box span {
+        font-size: 1.5rem; 
     }
 }
 
