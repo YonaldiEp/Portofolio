@@ -515,23 +515,9 @@ section{
     background: linear-gradient(to right, #32ff7e, #004d25);
 }
 
-/* form-group input,
-.form-group textarea {
-    width: 100%;
-    padding: 0.8rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 1rem;
-}
 
-.form-group input:focus,
-.form-group textarea:focus {
-    outline: none;
-    border-color: #32ff7e;
-    box-shadow: 0 0 5px rgba(50, 255, 126, 0.5);
-}
 
-.submit-btn {
+/* .submit-btn {
     width: 100%;
     padding: 0.8rem;
     font-size: 1.2rem;
@@ -546,4 +532,13 @@ section{
 
 .submit-btn:hover {
     background: linear-gradient(to right, #32ff7e, #004d25);
+} */ */
+
+/* /* form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
 } */
