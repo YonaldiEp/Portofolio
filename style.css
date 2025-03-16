@@ -514,3 +514,27 @@ section{
 .submit-btn:hover {
     background: linear-gradient(to right, #32ff7e, #004d25);
 }
+
+/* form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #32ff7e;
+    box-shadow: 0 0 5px rgba(50, 255, 126, 0.5);
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(to right, #004d25, #32ff7e);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.submit-btn:hover {
+    background: linear-gradient(to right, #32ff7e, #004d25);
+} */
