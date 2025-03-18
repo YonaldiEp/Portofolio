@@ -337,8 +337,6 @@ section{
     position: relative;     
 }
 
-
-
 .footer ul {
     display: flex;         
     justify-content: center; 
@@ -368,8 +366,6 @@ section{
     font-weight: 400; 
     text-align: center; 
 }
-
-
 
 @media(max-width:1280px){
     header{
