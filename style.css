@@ -435,7 +435,6 @@ section{
 .submit-btn:hover {
     background: linear-gradient(to right, #32ff7e, #004d25);
 }
-
 @media(max-width:1280px){
     header{
         padding: 1rem 2rem;
@@ -458,8 +457,6 @@ section{
         font-size: 2.5rem;
     }
 }
-
-
 @media(max-width:768px){
     header{
         gap: 1rem;
@@ -491,7 +488,6 @@ section{
         width: 70vw;
     }
 }
-
 @media (max-width: 600px) {
     .home-container {
         flex-direction: column;
